@@ -6,7 +6,7 @@ export const dialogueData = {
     Here is my <a href="https://github.com/singhrahulbrijesh" target="_blank">Github</a>!`,
   "cis-degree": `This is my Computer Information Science degree. I hung it on the wall because I'm proud of it. It was a very theoretical degree but I think it gave me a good foundation.`,
   "sofa-table": `That's my sofa. I like to relax here and watch YouTube. 
-  I also love to write some research works and here are some of link to my research papers. Go check out <a href="https://dl.acm.org/doi/10.1145/3644815.3644981" target="_blank">my ACM research work</a> and <a href="file:///C:/Users/Rahul%20Singh/Downloads/IEEE_Software___Common_Defects_in_Web_Browsers.pdf" target="_blank">IEEE Software Paper</a>!
+  I also love to write some research works and here are some links to my research papers. Go check out <a href="https://dl.acm.org/doi/10.1145/3644815.3644981" target="_blank">my ACM research work</a> and <a href="https://drive.google.com/file/d/1RGtm2_WDWks0T81zQ6ywglMPn4plsDJQ/view" target="_blank">IEEE Software Paper</a>!
   These works highlight my passion and expertise in the AI domain.`,
   tv: `That's my TV. I've been watching tech youtubers a lot recently like :
    <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank">Theprimeagen</a>, <a href="https://www.youtube.com/@t3dotgg" target="_blank">Theo - t3.gg</a>,
@@ -19,6 +19,5 @@ export const dialogueData = {
   library: `There are a lot of programming books on my shelves. I probably only read one of them. Who else compulsively buys technical books without ever finishing them?`,
   exit: `If you want to exit Rahul's portfolio, just close the tab.`,
 };
-
 
 
