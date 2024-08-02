@@ -1,3 +1,5 @@
+export const scaleFactor = 4;
+
 export const dialogueData = {
   pc: `This is my PC, the command center for my Data Science and Machine/Deep Learning adventures. It’s where I turn coffee into code and data into insights!
     I've made a couple of projects in that Domain. I also like languages such as Python, SQL, Javascript. Anyway regardless of the language, I just like programming.
@@ -17,3 +19,6 @@ export const dialogueData = {
   library: `There are a lot of programming books on my shelves. I probably only read one of them. Who else compulsively buys technical books without ever finishing them?`,
   exit: `If you want to exit Rahul's portfolio, just close the tab.`,
 };
+
+
+
