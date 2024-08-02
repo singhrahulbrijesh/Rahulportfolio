@@ -1,8 +1,7 @@
 import { defineConfig } from "vite";
 
-export default defineConfig({
-  base: "/Rahulportfolio/",
-  build: {
-    minify: "terser",
-  },
-});
+export default {
+  base: '/Rahulportfolio/',
+  // other configurations
+};
+
