@@ -6,7 +6,7 @@ export const dialogueData = {
     Here is my <a href="https://github.com/singhrahulbrijesh" target="_blank">Github</a>!`,
   "cis-degree": `This is my Computer Information Science degree. I hung it on the wall because I'm proud of it. It was a very theoretical degree but I think it gave me a good foundation.`,
   "sofa-table": `That's my sofa. I like to relax here and watch YouTube. 
-  I also love to write some research works and here are some links to my research papers. Go check out my <a href="https://dl.acm.org/doi/10.1145/3644815.3644981" target="_blank"> ACM research work</a> and <a href="https://drive.google.com/drive/u/0/folders/1mK8GtZyGpCunwAOBDi0jiSBi3JbYMO5t" target="_blank">IEEE Software Paper</a>!
+  I also love to write some research works and here are some links to my research papers. Go check out my <a href="https://dl.acm.org/doi/10.1145/3644815.3644981" target="_blank"> ACM research work</a> and <a href="https://drive.google.com/file/d/1DbS-j7PVqyFMccUknd8U8TNq9jJ_Z0JR/view" target="_blank">IEEE Software Paper</a>!
   These works highlight my passion and expertise in the AI domain.`,
   tv: `That's my TV. I've been watching tech youtubers a lot recently like :
    <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank">Theprimeagen</a>, <a href="https://www.youtube.com/@t3dotgg" target="_blank">Theo - t3.gg</a>,
